@@ -1,0 +1,15 @@
+ classdef Human
+  %HUMAN Summary of this class goes here
+  %   Detailed explanation goes here
+
+  properties
+  end
+
+  methods
+      function curse(obj)
+      disp('Hi!');
+  end
+
+ end
+
+ 
